@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+
+file= ~/Downloads/Driver_Brother
+create_paste= mkdir Driver_brother 
+
+if [ -d !$file];
+then echo
+
+echo "	Criando pasta $create_paste"
+echo "Pasta criada no diretorio $file"
+else echo
+	"A pasta ja existe no diretorio $file "
+fi

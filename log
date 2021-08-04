@@ -1,0 +1,11 @@
+--2021-08-03 12:52:34--  https://download.brother.com/welcome/dlf006893/linux-brprinter-installer-2.2.2-2.gz
+Resolving download.brother.com (download.brother.com)... 104.125.105.202
+Connecting to download.brother.com (download.brother.com)|104.125.105.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24517 (24K) [application/x-gzip]
+Saving to: ‘linux-brprinter-installer-2.2.2-2.gz’
+
+     0K .......... .......... ...                             100% 1011K=0,02s
+
+2021-08-03 12:52:34 (1011 KB/s) - ‘linux-brprinter-installer-2.2.2-2.gz’ saved [24517/24517]
+
